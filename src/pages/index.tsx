@@ -371,19 +371,19 @@ export default function Home() {
               name="Alexander Petrov"
               role="Frontend Developer"
               description="I'm here."
-              image="/team/91.png"
+              image="/team/81.png"
             />
               <TeamMember
               name="Ivan Kuznetsov"
               role="Backend Developer"
               description="I'm here."
-              image="/team/91.png"
+              image="/team/87.png"
             />
               <TeamMember
               name="Ethan Martinez"
               role="Blockchain Developer"
               description="I'm here."
-              image="/team/91.png"
+              image="/team/93.png"
             />
           </div>
         </div>
