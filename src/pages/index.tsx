@@ -355,7 +355,6 @@ export default function Home() {
             <TeamMember
               name="Dmitri Petrov"
               role="Team Lead"
-              github="https://github.com/musxos"
               description="I'm here."
               image="/team/76.png"
             />
