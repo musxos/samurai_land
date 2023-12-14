@@ -365,6 +365,26 @@ export default function Home() {
               description="I'm here."
               image="/team/91.png"
             />
+
+
+          <TeamMember
+              name="Alexander Petrov"
+              role="Frontend Developer"
+              description="I'm here."
+              image="/team/91.png"
+            />
+              <TeamMember
+              name="Ivan Kuznetsov"
+              role="Backend Developer"
+              description="I'm here."
+              image="/team/91.png"
+            />
+              <TeamMember
+              name="Ethan Martinez"
+              role="Blockchain Developer"
+              description="I'm here."
+              image="/team/91.png"
+            />
           </div>
         </div>
       </section>
